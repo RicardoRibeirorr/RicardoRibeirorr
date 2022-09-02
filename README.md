@@ -16,6 +16,8 @@ I am a fullstack software engineer / SAP ABAP consultant at Softinsa (IBM Group)
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="laravel" src="https://img.shields.io/badge/laravel-%23316192.svg?&style=for-the-badge&logo=laravel&logoColor=white" />
 <img align="left" alt="angular" src="https://img.shields.io/badge/angular-3DDC84?logo=angular&logoColor=white&style=for-the-badge" />
+<img align="left" alt="angular" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+
 <br>
 <br>
 
