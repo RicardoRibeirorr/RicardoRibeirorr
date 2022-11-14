@@ -3,6 +3,7 @@ I am a fullstack software engineer / SAP ABAP consultant at Softinsa (IBM Group)
 - 🔭 Working on multiple frontend and backend project using Angular, PHP and Laravel
 - 🌱 Learning design patterns in depth
 <br>
+Visit my website at <a href="RicardoRibeirorr.github.io">Ricardo Ribeiro - Blog for Developers in a Hurry</a>
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ricardo-ribeiro-5a788712b/)
