@@ -1,7 +1,9 @@
 ## Hello Beautiful World 👋
 I am a fullstack software engineer / SAP ABAP consultant at Softinsa (IBM Group)
 - 🔭 Working on multiple frontend and backend project using Angular, PHP and Laravel
-- 🌱 Learning design patterns in depth
+- 🌱 Learning design patterns in depth & Machine Learning & Deep Angular
+- ✍️ Currently writting a book & making blog posts
+- ⚡ Fun fact: I always wanted to work at robots artificial intelligence.
 <br>
 Visit my website at (<b><a target="_blank" href="https://ricardoribeirorr.github.io/">Ricardo Ribeiro - Blog for Developers in a Hurry</a></b>)
 
@@ -19,9 +21,3 @@ Visit my website at (<b><a target="_blank" href="https://ricardoribeirorr.github
 <img align="left" alt="angular" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
 
 <br>
-<br>
-
-- 🔭 I’m currently working on: Machine Learning
-- 🌱 I’m currently learning: Deep Angular
-- ⚡ Fun fact: I always wanted to work at robots artificial intelligence.
--->
